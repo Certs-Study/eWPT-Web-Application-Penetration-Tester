@@ -10,7 +10,7 @@
 * [Join Us - Discord](https://discord.gg/T3NYGA7yFU)
 * [Build Your Lab](before-start/build-your-lab.md)
 
-## 1⃣ Introduction
+## 1️⃣ Introduction
 
 * [HTTP Cookies and Sessions](introduction/http-cookies-and-sessions.md)
 * [Same Origin Policy](introduction/same-origin-policy.md)
@@ -18,7 +18,7 @@
 * [OWASP Zap](introduction/owasp-zap.md)
 * [Introduction LAB](introduction/introduction-lab.md)
 
-## 2⃣ Information Gathering
+## 2️⃣ Information Gathering
 
 * [😀 Information Gathering - Study Guide](information-gathering/information-gathering-study-guide.md)
 * [😀 Web Application Information Gathering](information-gathering/web-application-information-gathering.md)
@@ -28,7 +28,11 @@
 * [😀 Dirbuster](information-gathering/dirbuster.md)
 * [Information Gathering - LAB](information-gathering/information-gathering-lab.md)
 
-## 3⃣ Cross Site Scripting
+## Web Proxies
+
+* [Page 1](web-proxies/page-1.md)
+
+## 3️⃣ Cross Site Scripting
 
 * [Cross Site Scripting - Study](cross-site-scripting/cross-site-scripting-study.md)
 * [XSS Reflected and Persistent](cross-site-scripting/xss-reflected-and-persistent.md)
@@ -36,28 +40,28 @@
 * [BEEF](cross-site-scripting/beef.md)
 * [Cross Site Scripting - LAB](cross-site-scripting/cross-site-scripting-lab.md)
 
-## 4⃣ SQL Injections
+## 4️⃣ SQL Injections
 
 * [Page 2](sql-injections/page-2.md)
 
-## 5⃣ Authentication and Authorization
+## 5️⃣ Authentication and Authorization
 
 * [Page 3](authentication-and-authorization/page-3.md)
 
-## 6⃣ Session Security
+## 6️⃣ Session Security
 
 * [Page 4](session-security/page-4.md)
 
-## 7⃣ Flash
+## 7️⃣ Flash
 
 * [Flash - Study Guide](flash/flash-study-guide.md)
 * [Flash Security and Attacks](flash/flash-security-and-attacks.md)
 
-## 8⃣ HTML5
+## 8️⃣ HTML5
 
 * [Page 6](html5/page-6.md)
 
-## 9⃣ File and Resources Attacks
+## 9️⃣ File and Resources Attacks
 
 * [File and Resources Attacks - Study Guide](file-and-resources-attacks/file-and-resources-attacks-study-guide.md)
 * [File and Resources Attacks - Study](file-and-resources-attacks/file-and-resources-attacks-study.md)

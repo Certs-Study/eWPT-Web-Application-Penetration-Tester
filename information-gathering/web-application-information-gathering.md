@@ -17,11 +17,11 @@ The goal is to gather as much information as possible about the web application 
 
 There are several techniques and tools that are commonly used in web application information gathering.&#x20;
 
-These include:
-
 ### Website reconnaissance
 
-This involves collecting information about the target website, such as its domain name, IP address, hosting provider, web server software, and CMS (Content Management System) if any. This information can help in understanding the target's infrastructure and technology stack.
+This involves collecting information about the target website, such as its domain name, IP address, hosting provider, web server software, and CMS (Content Management System) if any.&#x20;
+
+This information can help in understanding the target's infrastructure and technology stack.
 
 ### Web application mapping
 
@@ -31,7 +31,9 @@ This can be done manually by navigating through the web application or by using 
 
 ### URL and parameter manipulation
 
-This involves manipulating URLs and parameters of the web application to uncover potential vulnerabilities or misconfigurations. For example, appending different parameters to URLs, modifying values, and testing for input validation issues, such as SQL injection, cross-site scripting (XSS), or cross-site request forgery (CSRF).
+This involves manipulating URLs and parameters of the web application to uncover potential vulnerabilities or misconfigurations.&#x20;
+
+For example, appending different parameters to URLs, modifying values, and testing for input validation issues, such as SQL injection, cross-site scripting (XSS), or cross-site request forgery (CSRF).
 
 ### Information leakage&#x20;
 

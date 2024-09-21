@@ -68,7 +68,9 @@ run
 
 ### Subfinder
 
-Subfinder is an open-source tool that uses passive and active techniques to discover subdomains associated with a target domain. It scans various sources, including search engines, certificate transparency logs, and DNS databases, to identify subdomains. Subfinder also supports brute-forcing and provides various output formats for further analysis. For example, to enumerate subdomains for the domain "example.com" using Subfinder, you can run the following command:
+Subfinder is an open-source tool that uses passive and active techniques to discover subdomains associated with a target domain. It scans various sources, including search engines, certificate transparency logs, and DNS databases, to identify subdomains. Subfinder also supports brute-forcing and provides various output formats for further analysis.&#x20;
+
+For example, to enumerate subdomains for the domain "example.com" using Subfinder, you can run the following command:
 
 ```
 subfinder -d example.com
